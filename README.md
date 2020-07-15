@@ -4,8 +4,9 @@
   - Typescript
   - Javascript
   - Node JS
-  - Vue Js
-  - Svelte Js
+  - Vue JS
+  - Svelte JS
+  - React JS
   - Web scraping (I really like scraping some website with JS or TS just for fun 😁)
  
  🔭 I’m currently working on software house base in Bali as a Web developer
