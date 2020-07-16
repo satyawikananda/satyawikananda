@@ -1,4 +1,4 @@
-### Hi there, Satya (19) Here 👋 😎
+### Hi there, Satya (19) Here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎
 
 🌱 I’m currently learning 
   - Typescript
