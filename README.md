@@ -1,8 +1,8 @@
-1. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
-2. 🎉 Merged PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
-3. 💪 Opened PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
-4. 🎉 Merged PR [#2](https://github.com//satyawikananda/react-hacktoberfest-devc/pull/2) in [satyawikananda/react-hacktoberfest-devc](https://github.com//satyawikananda/react-hacktoberfest-devc)
-5. 🎉 Merged PR [#1](https://github.com//satyawikananda/Vucovid-Covid-info/pull/1) in [satyawikananda/Vucovid-Covid-info](https://github.com//satyawikananda/Vucovid-Covid-info)
+### Hi there, Satya (19) Here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=satyawikananda.satyawikananda)
+
+<img align="right" alt="takeda rena gif" height=200 src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/rena1.gif?alt=media&token=a8ed0a79-d7d3-41bc-a318-8b96bf556f96" />
 
 🌱 I’m currently learning 
   - Typescript
@@ -27,6 +27,12 @@
  
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true)
+
+1. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
+2. 🎉 Merged PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
+3. 💪 Opened PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
+4. 🎉 Merged PR [#2](https://github.com//satyawikananda/react-hacktoberfest-devc/pull/2) in [satyawikananda/react-hacktoberfest-devc](https://github.com//satyawikananda/react-hacktoberfest-devc)
+5. 🎉 Merged PR [#1](https://github.com//satyawikananda/Vucovid-Covid-info/pull/1) in [satyawikananda/Vucovid-Covid-info](https://github.com//satyawikananda/Vucovid-Covid-info)
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
