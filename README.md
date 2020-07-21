@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
-2. 🎉 Merged PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
-3. 💪 Opened PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
-4. 🎉 Merged PR [#2](https://github.com//satyawikananda/react-hacktoberfest-devc/pull/2) in [satyawikananda/react-hacktoberfest-devc](https://github.com//satyawikananda/react-hacktoberfest-devc)
-5. 🎉 Merged PR [#1](https://github.com//satyawikananda/Vucovid-Covid-info/pull/1) in [satyawikananda/Vucovid-Covid-info](https://github.com//satyawikananda/Vucovid-Covid-info)
+1. 🎉 Merged PR [#1](https://github.com//satyawikananda/Sekolahku-ID/pull/1) in [satyawikananda/Sekolahku-ID](https://github.com//satyawikananda/Sekolahku-ID)
+2. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
+3. 🎉 Merged PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
+4. 💪 Opened PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
+5. 🎉 Merged PR [#2](https://github.com//satyawikananda/react-hacktoberfest-devc/pull/2) in [satyawikananda/react-hacktoberfest-devc](https://github.com//satyawikananda/react-hacktoberfest-devc)
 <!--END_SECTION:activity-->
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
