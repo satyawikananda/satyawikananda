@@ -31,11 +31,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1342](https://github.com//denoland/deno_website2/pull/1342) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
-2. 🎉 Merged PR [#1](https://github.com//satyawikananda/Sekolahku-ID/pull/1) in [satyawikananda/Sekolahku-ID](https://github.com//satyawikananda/Sekolahku-ID)
-3. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
-4. 🎉 Merged PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
-5. 💪 Opened PR [#1](https://github.com//satyawikananda/Weebsclopedia/pull/1) in [satyawikananda/Weebsclopedia](https://github.com//satyawikananda/Weebsclopedia)
+1. 💪 Opened PR [#1344](https://github.com//denoland/deno_website2/pull/1344) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
+2. ❌ Closed PR [#1342](https://github.com//denoland/deno_website2/pull/1342) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
+3. 💪 Opened PR [#1342](https://github.com//denoland/deno_website2/pull/1342) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
+4. 🎉 Merged PR [#1](https://github.com//satyawikananda/Sekolahku-ID/pull/1) in [satyawikananda/Sekolahku-ID](https://github.com//satyawikananda/Sekolahku-ID)
+5. 🎉 Merged PR [#1](https://github.com//satyawikananda/Anitrendz-Scraper/pull/1) in [satyawikananda/Anitrendz-Scraper](https://github.com//satyawikananda/Anitrendz-Scraper)
 <!--END_SECTION:activity-->
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
