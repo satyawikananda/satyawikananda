@@ -7,6 +7,7 @@
 🌱 I’m currently learning 
   - Typescript
   - Javascript
+  - Deno
   - Node JS
   - Vue JS
   - Svelte JS
