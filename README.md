@@ -42,7 +42,7 @@
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
  <div align="center">
-	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/rena-gif.gif?alt=media&token=3c4b875c-54fa-419d-b853-ec3e0b7447da">
+	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/ema.gif?alt=media&token=d6691b0d-5dc3-4d0a-84fa-0b61f0158cc8">
 </div>
 
 <!--
