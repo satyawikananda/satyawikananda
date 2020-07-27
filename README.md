@@ -1,7 +1,5 @@
 ### Hi there, Satya (19) Here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=satyawikananda.satyawikananda)
-
 <img align="right" alt="takeda rena gif" height=200 src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/rena1.gif?alt=media&token=a8ed0a79-d7d3-41bc-a318-8b96bf556f96" />
 
 🌱 I’m currently learning 
