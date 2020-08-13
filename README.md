@@ -34,7 +34,7 @@
 2. 💪 Opened PR [#14](https://github.com//denoland-id/registry/pull/14) in [denoland-id/registry](https://github.com//denoland-id/registry)
 3. 💪 Opened PR [#1344](https://github.com//denoland/deno_website2/pull/1344) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
 4. ❌ Closed PR [#1342](https://github.com//denoland/deno_website2/pull/1342) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
-5. 💪 Opened PR [#1342](https://github.com//denoland/deno_website2/pull/1342) in [denoland/deno_website2](https://github.com//denoland/deno_website2)
+5. undefined
 <!--END_SECTION:activity-->
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
