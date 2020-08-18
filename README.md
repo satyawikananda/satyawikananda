@@ -31,7 +31,7 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#15](https://github.com//denoland-id/registry/pull/15) in [denoland-id/registry](https://github.com//denoland-id/registry)
-2. 💪 Opened PR [#14](https://github.com//denoland-id/registry/pull/14) in [denoland-id/registry](https://github.com//denoland-id/registry)
+2. undefined
 3. undefined
 4. undefined
 5. undefined
