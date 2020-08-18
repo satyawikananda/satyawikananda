@@ -27,16 +27,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true)
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com//denoland-id/registry/pull/15) in [denoland-id/registry](https://github.com//denoland-id/registry)
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-<!--END_SECTION:activity-->
-
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
  <div align="center">
