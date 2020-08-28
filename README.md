@@ -30,7 +30,7 @@
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
  <div align="center">
-	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/ema.gif?alt=media&token=d6691b0d-5dc3-4d0a-84fa-0b61f0158cc8">
+	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/tumblr_d08e637baa533d212ec6915f136296c0_4e660d87_500.gif?alt=media&token=4b0e6841-9926-4632-bdb8-fe9533bff14d">
 </div>
 
 <!--
