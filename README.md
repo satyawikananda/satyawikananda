@@ -27,6 +27,8 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyawikananda)]
+
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
  <div align="center">
