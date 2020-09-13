@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on software house base in Bali as a Web developer
  
- 🤔 I’m looking for help with make creating an API from scrape a website in this [organization](https://github.com/Kizu-API)
+ 🤔 I’m looking for help with make creating an API from scrape a website in this [organization](https://github.com/Kizu-API) and currently, i'm trying to write some a blog content in my blog [here](https://grammer-blog.vercel.app)
  
  ⚡ Fun fact: I really like gravure idol and an actress from Japan, her name is [**Takeda Rena**](https://instagram.com/rena_takeda) 😊
  
