@@ -31,7 +31,7 @@
 
 ## Another pin project
 
-![anisearch](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=anisearch)
+![vucovid-covid-info](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info)
 ![yummy](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy)
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
