@@ -7,7 +7,7 @@
   - Javascript
   - Deno
   - Node JS
-  - Vue JS
+  - Vue JS and Nuxt JS
   - Svelte JS
   - React JS
   - Web scraping (I really like scraping some website with JS or TS just for fun 😁)
