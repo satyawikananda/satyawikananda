@@ -31,15 +31,15 @@
 
 ## Another pin project
 
-<a href="github.com/satyawikananda/vucovid-covid-info">
+<a href="https://github.com/satyawikananda/vucovid-covid-info">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info">
 </a>
 
-<a href="github.com/satyawikananda/yummy">
+<a href="https://github.com/satyawikananda/yummy">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy">
 </a>
 
-<a href="github.com/satyawikananda/your-fav-playlist">
+<a href="https://github.com/satyawikananda/your-fav-playlist">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
 </a>
 
