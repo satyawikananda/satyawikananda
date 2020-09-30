@@ -31,9 +31,17 @@
 
 ## Another pin project
 
-![vucovid-covid-info](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info)
-![yummy](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy)
-![your-fav-playlist](https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist)
+<a href="github.com/satyawikananda/vucovid-covid-info">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info">
+</a>
+
+<a href="github.com/satyawikananda/yummy">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy">
+</a>
+
+<a href="github.com/satyawikananda/your-fav-playlist">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
+</a>
 
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
