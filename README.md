@@ -43,6 +43,10 @@
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
 </a>
 
+<a href="https://github.com/satyawikananda/Sekolahku-ID/">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=Sekolahku-ID">
+</a>
+
  <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
  <div align="center">
