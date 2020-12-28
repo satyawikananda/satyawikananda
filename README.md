@@ -13,11 +13,9 @@
   - Web scraping (I really like scraping some website with JS or TS just for fun 😁)
   
  
- 🔭 I’m currently working on software house base in Bali as a Web developer
+ 🔭 I’m currently working on software house base in Bali as a web developer
  
- 🤔 I’m looking for help with make creating an API from scrape a website in this [organization](https://github.com/Kizu-API) and currently, i'm trying to write some a blog content in my blog [here](https://grammer-blog.vercel.app)
- 
- ⚡ Fun fact: I really like gravure idol and an actress from Japan, her name is [**Takeda Rena**](https://instagram.com/rena_takeda) 😊
+ ⚡ Fun fact: I really like gravure idol and an actress from Japan, her name is [**Takeda Rena**](https://instagram.com/rena_takeda) and music group from japan named [**Yoasobi**](https://yoasobi-music.jp) 😊
  
  🎵 For now, My favorite song is [Yoru ni kakeru from Yoasobi](https://www.youtube.com/watch?v=x8VYWazR5mE)
  
@@ -31,26 +29,62 @@
 
 ## Another pin project
 
-<a href="https://github.com/satyawikananda/vucovid-covid-info">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info">
-</a>
+<details>
+  <summary>Deno and Typescript project</summary>
+  <a href="https://github.com/satyawikananda/yummy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy">
+  </a>
+  <a href="https://github.com/satyawikananda/cardivo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=cardivo">
+  </a>
+  <a href="https://github.com/satyawikananda/denovo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=denovo">
+  </a>
+</details>
 
-<a href="https://github.com/satyawikananda/yummy">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy">
-</a>
+<details>
+  <summary>Public API project</summary>
+  <a href="https://github.com/satyawikananda/anitop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=anitop">
+  </a>
+  <a href="https://github.com/satyawikananda/covid19-simple-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=covid19-simple-api">
+  </a>
+  <a href="https://github.com/satyawikananda/waifu-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=waifu-generator">
+  </a>
+</details>
 
-<a href="https://github.com/satyawikananda/your-fav-playlist">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
-</a>
+<details>
+  <summary>Vue and Nuxt project</summary>
+  <a href="https://github.com/satyawikananda/satyawikananda.tech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=satyawikananda.tech">
+  </a>
+  <a href="https://github.com/satyawikananda/anisearch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=anisearch">
+  </a>
+  <a href="https://github.com/satyawikananda/vucovid-covid-info">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info">
+  </a>
+  <a href="https://github.com/satyawikananda/grammer-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=grammer-blog">
+  </a>
+  <a href="https://github.com/satyawikananda/Sekolahku-ID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=Sekolahku-ID">
+  </a>
+</details>
 
-<a href="https://github.com/satyawikananda/Sekolahku-ID/">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=Sekolahku-ID">
-</a>
+<details>
+  <summary>Other project</summary>
+  <a href="https://github.com/satyawikananda/your-fav-playlist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
+  </a>
+</details>
 
- <h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
+<h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
 
- <div align="center">
-	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/tumblr_d08e637baa533d212ec6915f136296c0_4e660d87_500.gif?alt=media&token=4b0e6841-9926-4632-bdb8-fe9533bff14d">
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/tumblr_d08e637baa533d212ec6915f136296c0_4e660d87_500.gif?alt=media&token=4b0e6841-9926-4632-bdb8-fe9533bff14d">
 </div>
 
 <!--
@@ -65,3 +99,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+ <!-- 🤔 I’m looking for help with make creating an API from scrape a website in this [organization](https://github.com/Kizu-API) and currently, i'm trying to write some a blog content in my blog [here](https://grammer-blog.vercel.app) -->
