@@ -1,6 +1,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars1.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 
-<img align="right" alt="takeda rena gif" height=200 src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/rena1.gif?alt=media&token=a8ed0a79-d7d3-41bc-a318-8b96bf556f96" />
+<img align="right" alt="pieck finger gif" height=200 src="https://media1.tenor.com/images/e8f93abbd4f4295c6536fd2e6b0d4541/tenor.gif" />
 
 🌱 I’m currently learning 
   - Typescript
