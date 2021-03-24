@@ -1,102 +1,39 @@
-![My card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars1.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
-
-<img align="right" alt="pieck finger gif" height=200 src="https://media1.tenor.com/images/e8f93abbd4f4295c6536fd2e6b0d4541/tenor.gif" />
-
-🌱 I’m currently learning 
-  - Typescript
-  - Javascript
-  - Deno
-  - Node JS
-  - Vue JS and Nuxt JS
-  - Svelte JS
-  - React JS
-  - Web scraping (I really like scraping some website with JS or TS just for fun 😁)
-  
- 
- 🔭 I’m currently working on software house base in Bali as a web developer
- 
- ⚡ Fun fact: I really like gravure idol and an actress from Japan, her name is [**Takeda Rena**](https://instagram.com/rena_takeda) and music group from japan named [**Yoasobi**](https://yoasobi-music.jp) 😊
- 
- 🎵 For now, My favorite song is [Yoru ni kakeru from Yoasobi](https://www.youtube.com/watch?v=x8VYWazR5mE)
- 
- 📫 How to reach me: 
- &nbsp; [<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="20px">](mailto:satyawikananda456@gmail.com) &nbsp; [<img src="https://pngimg.com/uploads/telegram/telegram_PNG30.png" width="20px">](https://t.me/satyawikananda) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/480px-LINE_logo.svg.png" width="20px">](http://line.me/ti/p/~satyawikananda234)
- 
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=satyawikananda)
-
-## Another pin project
-
-<details>
-  <summary>Deno and Typescript project</summary>
-  <a href="https://github.com/satyawikananda/yummy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=yummy">
-  </a>
-  <a href="https://github.com/satyawikananda/cardivo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=cardivo">
-  </a>
-  <a href="https://github.com/satyawikananda/denovo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=denovo">
-  </a>
-</details>
-
-<details>
-  <summary>Public API project</summary>
-  <a href="https://github.com/satyawikananda/anitop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=anitop">
-  </a>
-  <a href="https://github.com/satyawikananda/covid19-simple-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=covid19-simple-api">
-  </a>
-  <a href="https://github.com/satyawikananda/waifu-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=waifu-generator">
-  </a>
-</details>
-
-<details>
-  <summary>Vue and Nuxt project</summary>
-  <a href="https://github.com/satyawikananda/satyawikananda.tech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=satyawikananda.tech">
-  </a>
-  <a href="https://github.com/satyawikananda/anisearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=anisearch">
-  </a>
-  <a href="https://github.com/satyawikananda/vucovid-covid-info">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=vucovid-covid-info">
-  </a>
-  <a href="https://github.com/satyawikananda/grammer-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=grammer-blog">
-  </a>
-  <a href="https://github.com/satyawikananda/Sekolahku-ID">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=Sekolahku-ID">
-  </a>
-</details>
-
-<details>
-  <summary>Other project</summary>
-  <a href="https://github.com/satyawikananda/your-fav-playlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=your-fav-playlist">
-  </a>
-</details>
-
-<h1 align="center"><b>Thanks</b> for coming <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😎</h1>
+![My card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://pbs.twimg.com/profile_images/1354567581198245890/93_mzNG5_400x400.jpg&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/tumblr_d08e637baa533d212ec6915f136296c0_4e660d87_500.gif?alt=media&token=4b0e6841-9926-4632-bdb8-fe9533bff14d">
+  Hi all 👋, I'm Satya Wikananda a 19 years old guy who love code and open source. I really like creating an open source projects and i will make sure that the open source i create is useful to everyone. Thanks ^_^
+  <br><br>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue%20js-%2342b883svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <br><br>
+
+  You can reach me here:<br><br>
+  <a href="mailto:satyawikananda456@gmail.com">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/satyawikananda">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="http://line.me/ti/p/~satyawikananda234">
+    <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/satya_wikananda">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/satyawikananda">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  Made with ♥ in Bali, Indonesia
+  <br>
+  <a href="https://satyawikananda.tech">satyawikananda.tech</a>
 </div>
 
-<!--
-**satyawikananda/satyawikananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- 
--->
- <!-- 🤔 I’m looking for help with make creating an API from scrape a website in this [organization](https://github.com/Kizu-API) and currently, i'm trying to write some a blog content in my blog [here](https://grammer-blog.vercel.app) -->
+<details>
+  <summary>My stats in Github</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyawikananda">
+</details>
