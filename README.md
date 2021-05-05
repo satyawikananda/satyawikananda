@@ -28,7 +28,7 @@
 
   Made with ♥ in Bali, Indonesia
   <br>
-  <a href="https://satyawikananda.tech" style="color: #2E3440;">satyawikananda.tech</a>
+  <a href="https://satyawikananda.vercel.app" style="color: #2E3440;">satyawikananda.vercel.app</a>
 </div>
 
 
