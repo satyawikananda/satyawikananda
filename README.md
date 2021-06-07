@@ -37,3 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satyawikananda&show_icons=true">
   <img src="https://github-profile-trophy.vercel.app/?username=satyawikananda">
 </details>
+
+<details>
+  <summary>My Wakatime breakdown</summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=satyawikananda&layout=compact">
+</details>
